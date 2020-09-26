@@ -1,6 +1,6 @@
-### MACHINE LEARNING| DEEP LEARNING| WEB DEVELOPMENT
+### **MACHINE LEARNING| DEEP LEARNING| WEB DEVELOPMENT**
 
-## Hi there. This is Varun Pusarla 👋
+# Hey there!!! This is Varun Pusarla 👋
 
 I'm an undergraduate from Delhi and I love to make computers learn stuff without being explicitly programmed.
 Also, I'm a **Web Developer** with good expertise in web technologies like Django and ReactJS.
