@@ -7,7 +7,7 @@ Also, I'm a **Web Developer** with good expertise in web technologies like Djang
 
 Do checkout my work below and help me improve by providing your valueable feedback.
 
-You can reach me 📫 at: 
+You can reach me at 📫: 
 [E-Mail](varunpusarla@gmail.com)
 
 
