@@ -1,4 +1,15 @@
-### Hi there 👋
+### MACHINE LEARNING| DEEP LEARNING| WEB DEVELOPMENT
+
+## Hi there. This is Varun Pusarla 👋
+
+I'm an undergraduate from Delhi and I love to make computers learn stuff without being explicitly programmed.
+Also, I'm a **Web Developer** with good expertise in web technologies like Django and ReactJS.
+
+Do checkout my work below and help me improve by providing your valueable feedback.
+
+You can reach me 📫 at: 
+[E-Mail](varunpusarla@gmail.com)
+
 
 <!--
 **varunpusarla/varunpusarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
