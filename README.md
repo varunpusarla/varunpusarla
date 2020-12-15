@@ -1,7 +1,6 @@
 # **MACHINE LEARNING| DEEP LEARNING| WEB DEVELOPMENT**
 
-### Hey there!!! This is Varun Pusarla  [![Varun Pusarla's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/varunpusarla)
-
+### Hey there!!! This is Varun Pusarla  
 I'm an undergraduate from Delhi and I love to make computers learn stuff without being explicitly programmed.
 Also, I'm a **Web Developer** with good expertise in web technologies like Django and ReactJS.
 
