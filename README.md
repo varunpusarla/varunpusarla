@@ -2,7 +2,7 @@
 
 ### Hey there!!! This is Varun Pusarla  
 I'm an undergraduate from Delhi and I love to make computers learn stuff without being explicitly programmed.
-Also, I'm a **Web Developer** with good expertise in web technologies like Django and ReactJS.
+Also, I'm a **Web Developer** with good expertise in HTML, CSS and JavaScript.
 
 Do checkout my work below and help me improve by providing your valueable feedback.
 
