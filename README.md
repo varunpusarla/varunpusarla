@@ -7,7 +7,7 @@ Also, I'm a **MERN Web Developer** with good expertise in HTML, CSS and JavaScri
 Do checkout my work below and help me improve by providing your valueable feedback.
 
 You can reach me at 📫: 
-[E-Mail](varunpusarla@gmail.com)
+[varunpusarla@gmail.com](varunpusarla@gmail.com)
 
 ## My Tech Stack 
 ### WEB DEVELOPMENT :
